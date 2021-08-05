@@ -1,0 +1,10 @@
+__pycache__
+Dockerfile
+config_files
+docker-compose.yml
+flaskapp.sock=
+.requirements.txt.swp
+..gitignore.swp
+.app.py.swp
+venv
+app.py.save
