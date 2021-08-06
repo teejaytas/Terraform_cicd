@@ -20,4 +20,4 @@ jobs:
           cd Todo_A
           git pull
           git status
-          
+          cd /etc/systemd/system | sudo service helloworld restart
