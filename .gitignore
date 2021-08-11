@@ -8,3 +8,6 @@ flaskapp.sock=
 .app.py.swp
 venv
 app.py.save
+/templates/.home.html.swp
+.m.swp
+/template/.m.swp
